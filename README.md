@@ -11,7 +11,6 @@ Hardware or software mechanisms that used to protect assets
 #### Administrative
 Personnel or business practices that used to protect assets (policies, procedures, or guidelines)
 
-
 ## Security Controls Functions
 #### Deterrent
 Any measures that reduce the likelihood of a deliberate attack
@@ -27,7 +26,6 @@ Any measures that reverse the impact of an incident after it has happened
 
 #### Recovery
 Any measures that bring the system back to how it was (Normal condition) before the attack
-
 
 ## Examples
 - Physical 
@@ -58,18 +56,17 @@ Any measures that bring the system back to how it was (Normal condition) before 
   - Recovery
     - Backup
 
-Administrative
-
-    Deterrent
-        Policies and procedures
-    Preventative
-        Separation of duties
-        Data classification
-        User training
-    Detective
-        Audit logs
-    Corrective
-        Incident response plan
-        Business continuity plan
-    Recovery
-        Disaster recovery plan
+- Administrative
+  - Deterrent
+    - Policies and procedures
+  - Preventative
+    - Separation of duties
+    - Data classification
+    - User training
+  - Detective
+    - Audit logs
+  - Corrective
+    - Incident response plan
+    - Business continuity plan
+  - Recovery
+    - Disaster recovery plan
