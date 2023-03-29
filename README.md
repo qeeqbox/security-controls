@@ -76,6 +76,3 @@ b0976734-39b8-4c37-a212-78ac51be2995
 
 ## References
 - https://en.wikipedia.org/wiki/Security_controls
-
-## License
-[Creative Commons Attribution 4.0 International License](./LICENCE)
